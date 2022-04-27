@@ -1,15 +1,15 @@
 # node-js-jwt-auth-postgresql
 
-Define Routes
+\nDefine Routes
 
-Authentication:
-POST /api/auth/signup
-POST /api/auth/signin
+\nAuthentication:
+\nPOST /api/auth/signup
+\nPOST /api/auth/signin
 
-Authorization:
-GET /api/test/all
-GET /api/test/user for loggedin users (user/moderator/admin)
-GET /api/test/mod for moderator
-GET /api/test/admin for admin
+\nAuthorization:
+\nGET /api/test/all
+\nGET /api/test/user for loggedin users (user/moderator/admin)
+\nGET /api/test/mod for moderator
+\nGET /api/test/admin for admin
 
 
