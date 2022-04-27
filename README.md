@@ -2,11 +2,11 @@
 
 ## Define Routes
 
-###### Authentication:
+##### Authentication:
 - POST /api/auth/signup
 - POST /api/auth/signin
 
-###### Authorization:
+##### Authorization:
 - GET /api/test/all
 - GET /api/test/user for loggedin users (user/moderator/admin)
 - GET /api/test/mod for moderator
